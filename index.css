@@ -1,0 +1,77 @@
+body {
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+	font-size: 6em !important;
+	letter-spacing: 0.75em;
+	font-weight: 300;
+}
+
+h2 {
+	font-size: 2.5em;
+	font-weight: 200;
+}
+
+h3 {
+	font-size: 2.5em;
+	font-weight: 200;
+	border-bottom: #e36f26 1px solid;
+	display: inline;
+}
+
+h4 {
+	color: white;
+	font-size: 2em;
+	font-weight: 200;
+}
+
+h5 {
+	font-size: 2.5em;
+	font-weight: 200;
+	margin: 100px 0;
+}
+
+.jumbotron {
+	text-align: left;
+	color: white;
+	margin-bottom: 60px;
+	background: url('https://cl.ly/1n0k0O2s3n2W/bckgrndimage-comp.jpg');
+	background-size: cover;
+	background-position: center;
+	border-radius: 0 !important;
+	padding: 100px 0;
+}
+
+.jumbotron img {
+	position: absolute;
+	top: 20px;
+	left: 20px;
+}
+
+.panel-b,
+.panel-o {
+	margin-top: 30px;
+	padding: 20px 30px 40px 30px;
+}
+
+.panel-b {
+	background-color: #1a3a63;
+	margin-right: 5px;
+}
+
+.panel-o {
+	background-color: #e36f26;
+	margin-left: 5px;
+}
+
+.btn {
+	border: white 1px solid;
+	border-radius: 10px;
+	font-size: 1.5em;
+	color: white;
+	margin: 20px;
+	background-color: rgba(255,255,255,0.25);
+	padding: 12px;
+}
